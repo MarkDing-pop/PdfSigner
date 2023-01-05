@@ -1,0 +1,3 @@
+rootProject.name = "PdfSigner"
+include ':app'
+include ':android-pdf-viewer'
